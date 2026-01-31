@@ -197,10 +197,7 @@ Code Writing
 # 4. Generative AI impact of scaling in LLMs.
 
 ## What is Scaling in LLMs?
-Scaling means making the AI model bigger and stronger by using:
-• More training data
-• More model parameters (neurons)
-• More powerful computers
+Generative AI scaling in Large Language Models (LLMs) refers to increasing the amount of training data, the number of model parameters, and the computational resources used during training. As LLMs scale, their ability to understand language, generate accurate responses, and perform complex tasks improves significantly. Larger models can capture deeper patterns in data, maintain better contextual understanding, and develop emergent abilities such as reasoning, translation, and code generation. Scaling also enables a single model to handle multiple tasks without task-specific training, improving efficiency and versatility. However, scaling introduces challenges such as high training costs, increased energy consumption, deployment complexity, and the risk of bias amplification and incorrect outputs. Therefore, while scaling enhances the performance and capability of Generative AI systems, it must be managed carefully to ensure efficiency, reliability, and responsible AI development.
 
 ## Why is Scaling Important?
 When we increase the size of the model, its performance improves and it becomes more 
